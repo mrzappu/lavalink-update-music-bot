@@ -1,9 +1,9 @@
 module.exports = {
   // Bot Configuration
   token: process.env.DISCORD_BOT_TOKEN,
-  GUILD_ID: '1435919529745059883', // Added your server ID here
   prefix: '!',
   enablePrefix: true, 
+  GUILD_ID: '1435919529745059883', // Added from your previous turn
   
   OWNER_ID: process.env.OWNER_ID || '944870216733716481',
 
