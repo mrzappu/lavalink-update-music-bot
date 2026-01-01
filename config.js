@@ -17,7 +17,7 @@ module.exports = {
   lavalink: {
     nodes: [{
       name: 'Rick_Music', 
-      url: 'nexus.voidhosting.vip:6004', 
+      url: 'pnode1.danbot.host:1351', 
       auth: 'cocaine', 
       secure: false, 
     }],
