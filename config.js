@@ -4,10 +4,10 @@ module.exports = {
   prefix: '!',
   enablePrefix: true, 
   
-  OWNER_ID: process.env.OWNER_ID || '809441570818359307',
+  OWNER_ID: process.env.OWNER_ID || '944870216733716481',
 
   // NEW: Channel ID where the permanent status embed will live
-  LAVALINK_STATUS_CHANNEL_ID: '1389121367332622337', 
+  LAVALINK_STATUS_CHANNEL_ID: '1442844239992979549', 
 
   activity: {
     name: 'INFINITY MUSIC',
