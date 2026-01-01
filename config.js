@@ -1,12 +1,13 @@
 module.exports = {
   // Bot Configuration
   token: process.env.DISCORD_BOT_TOKEN,
+  GUILD_ID: '1435919529745059883', // Added your server ID here
   prefix: '!',
   enablePrefix: true, 
   
   OWNER_ID: process.env.OWNER_ID || '944870216733716481',
 
-  // NEW: Channel ID where the permanent status embed will live
+  // Channel ID where the permanent status embed will live
   LAVALINK_STATUS_CHANNEL_ID: '1442844239992979549', 
 
   activity: {
